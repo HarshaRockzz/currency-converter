@@ -11,7 +11,7 @@ You can convert over 30 currencies, make historical conversions, and view conver
 ```
 npm install
 ```
-4. Start React project and development server.
+ Start React project and development server.
 
 ```
 npm start
